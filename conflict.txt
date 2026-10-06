@@ -1,1 +1,1 @@
-Text from main branch
+Text after resolving the merge conflict
